@@ -19,8 +19,8 @@ It replicates the user interface of Spotify’s web player, including the sideba
 
 ---
 
-## 📸 Video
-![Demo](demo video.mp4)
+## 📸 Screenshot
+![Image of the webpage to be shown here](screenshot.png)
 
 ---
 
